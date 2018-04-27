@@ -1,6 +1,6 @@
 # NWFW-Toolbox
 Collection of basic scripts to lightly harass a network firewall
-- scapy_menu.py	
+- menu.py	
   - Main Menu
 - ICMP_flood_sca.py	
   - Scapy script that sends 9001 ICMP packets to target IP address
